@@ -7,7 +7,7 @@
               <td>
                 <p></p>
                 <p align='center'><b>😎 Austin</b></p>
-                <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@gmail.com">fmw19990718@gmail.com</a></b></p>
+                <p align='center'>📫&nbsp;<b><a href="mailto:jnvcotc@zohomail.cn" target="_blank">jnvc583@zohomail.cn</a></b></p>
                 <p align='center'>birthday: 2014-12-29. current city: Jiujiang</p>
                 <p align='center'>
                   <img src="https://img.shields.io/github/followers/jnvc583?color=brightgreen&label=flower%20me%28%E5%85%B3%E6%B3%A8%E6%88%91%29" />
@@ -18,10 +18,10 @@
               <td>
                 <p></p><p></p>
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=dracula&border_radius=45" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jnvc583&show_icons=true&theme=dracula&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=dracula&layout=compact" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnvc583&border_radius=45&theme=dracula&layout=compact" width="300"></a>
                 </p>
                 <br>
               </td>
